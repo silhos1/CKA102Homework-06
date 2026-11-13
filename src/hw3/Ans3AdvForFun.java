@@ -64,6 +64,7 @@ public class Ans3AdvForFun {
 			count++;
 			if (count == 5)
 				System.out.println("Seriously?");
+			
 			delList(hateNum, lottery);
 
 			for (int i = 0; i < lottery.size(); i++) {
